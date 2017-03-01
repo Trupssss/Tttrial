@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Starter Application</title>
+	<title>Watson Tour Guide</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<table>
-		<tr>
-			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/newapp-icon.png'>
-			</td>
-			<td>
-				<h1 id = "message"><?php echo "Hello World!!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
-			</td>
-		</tr>
-	</table>
+	<center>
+				<h1 id = "message"><?php echo "Watson Tour Guide"; ?></h1>	<br>
+				<p class='description'></p> We will help you <span class="blue">make your tour beautiful</span>!<br>
+				<img class = 'newappIcon' src='images/Tour6.jpg'> <br>
+			
+				<h5 id = "message"><?php echo "Select location :"; ?></h5>	<br>
+				<select name="Location">
+					<option value="">SPPU</option>
+					<option value="M">Mumbai</option>
+					<option value="P">Paris</option>
+				</select>
+				<input id='Submit' name='Submit' value='Go' type='button'>	<br>
+				<img class = 'newappIcon' src='images/Tour7.jpg'>
+			
+	</center>
 </body>
 </html>
