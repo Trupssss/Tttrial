@@ -11,7 +11,9 @@
 	      <tr>
 		 <td>
 			<img class = 'newappIcon' src='images/Tour7.jpg'>
+		 </td>
 			<h1 id = "message"><?php echo "Watson Tour Guide"; ?></h1>
+		 <td>
 	         </td>
 	      </tr>
 	   </table>
