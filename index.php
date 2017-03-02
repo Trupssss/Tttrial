@@ -7,8 +7,17 @@
 </head>
 <body>
 	<center>
+		<table>
+			<tr>
+			     <td>
 				<h1 id = "message"><?php echo "Watson Tour Guide"; ?></h1>	<br>
+			     </td>
+			</tr>
+			<tr>
+			     <td>
 				<p class='description'></p> We will help you <span class="blue">make your tour beautiful</span>!<br>
+			     </td>
+			</tr>
 				<img src='images/Tour6.jpg'> <br>
 			
 				<h5 id = "message"><?php echo "Select location :"; ?></h5>	<br>
@@ -19,7 +28,7 @@
 				</select>
 				<input id='Submit' name='Submit' value='Go' type='button'>	<br>
 				<img src='images/Tour7.jpg'>
-			
+		</table>
 	</center>
 </body>
 </html>
