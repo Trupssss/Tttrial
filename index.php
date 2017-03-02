@@ -16,7 +16,6 @@
 		 <td>
 	         </td>
 	      </tr>
-	   </table>
 		<p class='description'></p> We will help you <span class="yellow">make your tour beautiful</span>!<br><br>
 			<img src='images/Tour6.jpg'> <br>
 		<tr>
@@ -34,6 +33,7 @@
 			<input id='Submit' name='Submit' value='Go' type='button' class='Go'>
 	          </td>
 	      </tr>
+	     </table>
 	</center>
 </body>
 </html>
