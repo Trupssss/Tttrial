@@ -9,7 +9,7 @@
 	<center>
 			
 			<h1 id = "message"><?php echo "Watson Tour Guide"; ?></h1>
-		<h3><p class='description'></p> We will help you <span class="yellow">make your tour beautiful</span>!</h3><br><br>
+		<h3><p class='description'></p> We will help you <span class="yellow">make your tour beautiful</span>!</h3><br>
 			<img src='images/Tour6.jpg'> <br>
 			<h2 id = "message"><?php echo "Select location :"; ?></h2>
 				<select name="Location" style="width: 150px;">
