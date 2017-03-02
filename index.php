@@ -7,7 +7,7 @@
 </head>
 <body>
 	<center>
-			<img class = 'newappIcon' src='images/Tour7.jpg'>
+			
 			<h1 id = "message"><?php echo "Watson Tour Guide"; ?></h1>
 		<p class='description'></p> We will help you <span class="yellow">make your tour beautiful</span>!<br><br>
 			<img src='images/Tour6.jpg'> <br>
