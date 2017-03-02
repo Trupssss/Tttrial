@@ -12,7 +12,7 @@
 		<h3><p class='description'></p> We will help you <span class="yellow">make your tour beautiful</span>!</h3><br>
 			<img src='images/Tour6.jpg'> <br>
 			<h2 id = "message"><?php echo "Select location :"; ?></h2>
-				<select name="Location" style="width: 150px;">
+				<select name="Location" style="width: 250px;">
 					<option value="">SPPU</option>
 					<option value="M">Mumbai</option>
 					<option value="P">Paris</option>
