@@ -30,7 +30,7 @@ a:hover {
 h1 {
 	color: #FFFF00;
 	font-weight: bold;
-	font-size: 3em;
+	font-size: 3.5em;
 }
 h2 {
 	font-weight: bold;
@@ -101,5 +101,5 @@ pre {
 }
 
 #Go {
-    width: 60em;  height: 2em;
+    width: 100em;  height: 2em;
 }
